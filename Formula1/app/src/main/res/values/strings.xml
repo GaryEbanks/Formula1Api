@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formula1</string>
+    <string name="pilotos_de_la_temporada_2022">Pilotos de la temporada 2022</string>
+    <string name="nombre_del_piloto">Nombre del Piloto</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="codigo">Codigo:</string>
+    <string name="numero">Numero:</string>
+    <string name="nacionalidad">Nacionalidad:</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento:</string>
+    <string name="apellido">Apellido:</string>
+</resources>
